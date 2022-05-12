@@ -1,0 +1,6 @@
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\RogueLike\RogueLike\bin\Debug\RogueLike.exe
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\RogueLike\RogueLike\bin\Debug\RogueLike.pdb
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\RogueLike\RogueLike\obj\Debug\RogueLike.csprojAssemblyReference.cache
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\RogueLike\RogueLike\obj\Debug\RogueLike.csproj.CoreCompileInputs.cache
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\RogueLike\RogueLike\obj\Debug\RogueLike.exe
+C:\Users\leedm\Desktop\files\informatic\students_tasks_pkd\li.dsen\RogueLike\RogueLike\obj\Debug\RogueLike.pdb
